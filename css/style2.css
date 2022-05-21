@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+img {
+
+  margin-left: 150px;
+  position: relative;
+}
+
+.red {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  left: 200px;
+  position:relative;
+}
+
+.blue {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  bottom: 100px;
+  position: relative;
+}
+
+.yellow {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  bottom:200px;
+  left: 100px;
+  position: relative;
+}
